@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>luvDOG</title>
+  <title>loving doggos</title>
 
   <!-- Google Font -->
   <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -34,7 +34,7 @@
     <!-- Nav Bar -->
 
     <nav class="navbar navbar-expand-lg navbar-dark">
-      <a class="navbar-brand" href="">luvDOG</a>
+      <a class="navbar-brand" href="">loving Doggos</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
       </button>
@@ -243,7 +243,7 @@
     <a href="https://www.facebook.com/profile.php?id=100003012582968"><i class="footer-icon fab fa-facebook-f"></i></a>
     <a href="https://www.instagram.com/somya_r_sahu/"><i class="footer-icon fab fa-instagram"></i></a>
     <a href="mailto:instrumentobdk@gmail.com"><i class="footer-icon fas fa-envelope"></i></a>
-    <p>© Copyright 2021 luvDOG</p>
+    <p>© Copyright 2022</p>
 
   </footer>
 
